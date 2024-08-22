@@ -60,7 +60,7 @@ const LeaderboardModal = ({ open, handleClose, userData, leaderboardList }) => {
         }}>
           <Grid container spacing={4} textAlign={'center'}>
             <Box sx={{ textAlign: 'center', width: '100%', ml:2, mb: 6 }}>
-               <Typography fontFamily={'avenir, sans-serif, serif'} fontWeight={700} fontSize={'2rem'} sx={{ mt: 4 }}>Leaderboard </Typography>
+               <Typography fontFamily={'avenir, sans-serif, serif'} fontWeight={700} fontSize={'2rem'} sx={{ mt: 4 }}>Leaderboard RENEW</Typography>
                <Typography fontFamily={'avenir, sans-serif, serif'} fontWeight={700} fontSize={'1rem'} sx={{ mt: 0.5 }}>Here is top 10 Players </Typography>
             </Box>
           </Grid>
